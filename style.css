@@ -22,7 +22,7 @@ header .title{
 header a{
     padding: 5px;
     color: white;
-    transition: color 3.0s ease;
+    transition: color 0.5s ease;
 } 
 header a:hover{
     color:lawngreen;
@@ -56,8 +56,6 @@ h2{
 }}
 
 img {
-    max-width: 100%;
-}
-.three-images{
-    display: flex;
-}
+    max-width: 100%;}
+
+
