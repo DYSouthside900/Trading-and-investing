@@ -25,7 +25,7 @@ header a{
     transition: color 0.5s ease;
 } 
 header a:hover{
-    color:lawngreen;
+    color:lime
 }
 h1{
     
@@ -58,4 +58,15 @@ h2{
 img {
     max-width: 100%;}
 
-
+.bullish{
+    color:green
+}
+.bearish{
+    color:red
+}
+header a.bullish{
+    color:white
+}
+header a.bullish:hover{
+    color:green
+}
