@@ -57,8 +57,14 @@ h2{
 
 .img {
     max-width: 100%;
+    
 
 }
+.indicators{
+    width: 900px;
+    
+}
+
 
 .bullish{
     color:green
